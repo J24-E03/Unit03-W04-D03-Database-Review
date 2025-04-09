@@ -1,7 +1,3 @@
-Here’s a **comprehensive review lab** for your students that reinforces all the core SQL topics you've taught. It includes **progressive tasks**, structured around a **realistic database schema**, and includes **bonus challenges** for more advanced SQL features. You can run this on **PostgreSQL**.
-
----
-
 ## 🔧 **Lab Overview: "Student Portal Management System"**
 
 The goal is to create and manipulate a database for a fictional university's student portal. Students will:
